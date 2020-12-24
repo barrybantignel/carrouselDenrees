@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/carrouselDenrees/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/carrouselDenrees/static/js/main.f2187cd2.chunk.js",
+    "main.js.map": "/carrouselDenrees/static/js/main.f2187cd2.chunk.js.map",
+    "runtime-main.js": "/carrouselDenrees/static/js/runtime-main.91c16997.js",
+    "runtime-main.js.map": "/carrouselDenrees/static/js/runtime-main.91c16997.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/carrouselDenrees/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.0eb40f8d.chunk.js": "/carrouselDenrees/static/js/2.0eb40f8d.chunk.js",
+    "static/js/2.0eb40f8d.chunk.js.map": "/carrouselDenrees/static/js/2.0eb40f8d.chunk.js.map",
+    "static/js/3.40e75b1f.chunk.js": "/carrouselDenrees/static/js/3.40e75b1f.chunk.js",
+    "static/js/3.40e75b1f.chunk.js.map": "/carrouselDenrees/static/js/3.40e75b1f.chunk.js.map",
+    "index.html": "/carrouselDenrees/index.html",
+    "static/css/2.20aa2d7b.chunk.css.map": "/carrouselDenrees/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.ab7136cd.chunk.css.map": "/carrouselDenrees/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.0eb40f8d.chunk.js.LICENSE.txt": "/carrouselDenrees/static/js/2.0eb40f8d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.91c16997.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.0eb40f8d.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.f2187cd2.chunk.js"
+  ]
+}
